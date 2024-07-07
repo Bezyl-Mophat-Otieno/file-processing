@@ -1,0 +1,6 @@
+@file_processing_HostAddress = http://localhost:5072
+
+GET {{file_processing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

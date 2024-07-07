@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\file-processing.props" />
+</Project>
